@@ -7,5 +7,5 @@ Note that this will convert any terrain.png regardless of format, however the re
 
 Misc directory contains the blank or unknown textures, it may contain other textures if terrain.png is in a format other than 1.4.5.
 
-How does it work?:
+How does it work?
 Put terrain_converter.jar in the same folder as the desired terrain.png and run terrain_converter.
