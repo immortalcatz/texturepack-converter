@@ -1,3 +1,5 @@
+# Development in hibernation for now
+
 # texturepack-converter
 Designed to convert older texture packs to the more modern Minecraft file structure, intends to provide some more functionality than Dinnerbones converter.
 
